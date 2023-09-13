@@ -61,13 +61,8 @@ Visit the Discord Developer Portal.
 Create a new application and navigate to the "Bot" tab.
 Click "Add Bot" to create a bot user.
 Under the "TOKEN" section, click "Copy" to copy your bot token.
-Create a config.json file in the project directory and paste your bot token:
+paste your bot token in the main.py:
 
-```bash
-{
-    "TOKEN": "your_bot_token_here"
-}
-```
 
 Set up a SQLite database (included in Python's standard library) for storing data.
 
