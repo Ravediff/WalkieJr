@@ -1,6 +1,7 @@
 # WalkieJr - A Cute Discord Bot
 
-![WalkieJr Logo](![Chino with twintails  GochiUsa](https://github.com/Ravediff/WalkieJr/assets/117040786/871a19c7-946f-4952-a93a-e0b70a478b32))
+![Chino with twintails  GochiUsa](https://github.com/Ravediff/WalkieJr/assets/117040786/96e501c8-dd73-4890-ad68-403ad31ce03c)
+
 
 
 ## Table of Contents
