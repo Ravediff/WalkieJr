@@ -1,0 +1,7 @@
+discord.py==1.7.3
+sqlite3
+random2
+asyncio
+requests
+IMDbPY==7.8.1
+Flask==2.0.1
