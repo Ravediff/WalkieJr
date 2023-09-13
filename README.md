@@ -88,10 +88,10 @@ If you encounter any issues or have questions, feel free to reach out for assist
 
 Once WalkieJr is added to your Discord server, you can start using its features with simple commands. Here are some examples:
 
-- To get movie info: `!movie <movie_name>`
-- To post a meme GIF: `!meme`
-- To retrieve a random quote: `!quote`
-- To search for Discord user info: `!userinfo <username>`
+- To get movie info: `%movie <movie_name>`
+- To post a meme GIF: `%kill <usermention>`
+- To retrieve a random quote: `%moti`
+- To search for Discord user info: `%uinfo <username>`
 
 [Insert any additional usage instructions or command details as needed.]
 
