@@ -69,13 +69,13 @@ Set up a SQLite database (included in Python's standard library) for storing dat
 Run the bot using the following command:
 
 ```bash
-$ python bot.py
+$ python main.py
 ```
 
 Optionally, if you want to use the Flask-based web interface (if applicable), navigate to the web directory and run:
 
 ```bash
-$ python app.py
+$ python keep_alive.py
 ```
 Your WalkieJr Discord bot should now be up and running on your server. You can invite it to your Discord server and start using its features!
 
